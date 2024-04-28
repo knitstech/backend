@@ -2,10 +2,10 @@
 [![build](https://github.com/63phc/lks/workflows/build/badge.svg)](https://github.com/63phc/lks/actions?query=workflow%3Abuild)
 [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/63phc/lks/LICENCE)
 <div align="center">
-<h1>LITTLE KNITS STORY</h1>  
+<h1>KNITS TECH</h1>  
     
-[![swagger](https://validator.swagger.io/validator?url=http://dev.backend.littleknitsstory.com/)](http://dev.backend.littleknitsstory.com/) 
-[![graphql](https://badgen.net/badge/icon/graphql.beta?icon=graphql&label)](http://dev.backend.littleknitsstory.com/api/v2/)
+[![swagger](https://validator.swagger.io/validator)]() 
+[![graphql](https://badgen.net/badge/icon/graphql.beta?icon=graphql&label)]()
 </div>
   - This is project with the most modern technologies, also for testing new version of python and django. <br>
   - This is just a pet project backend, this is not a boxed solution, this is just an API for my project. <br>
